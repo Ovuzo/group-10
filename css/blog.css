@@ -60,12 +60,12 @@ body {
 }
 
 .cta-bg-image-1 {
-    background: url("images/img/mechanic-car.png") no-repeat;
+    background: url("/images/img/mechanic-car.png") no-repeat;
     background-size: cover;
 }
 
 .cta-bg-image-2 {
-    background: url("images/img/mechanic-car-burner.png") no-repeat;
+    background: url("/images/img/mechanic-car-burner.png") no-repeat;
     background-size: cover;
 }
 
