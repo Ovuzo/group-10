@@ -51,7 +51,10 @@
     width: 24%;
     
 }
-
+#sec4{
+    width: 98%;
+    margin: auto;
+}
 #sec4 .sec4-img1{
     height: 300px;
     background: url("../images/image-car.png")no-repeat center center/cover;
@@ -94,7 +97,7 @@
     .sec2-bline{display: none;}
     .row1-box1{width: 80%;margin: auto;}
     .card{width: 100%;}
-    .sec4-bg{width: 100%;}
+    .sec4-bg{width: 100%;margin: auto;}
 }   
 @media (max-width: 768px){
     .hero-txt{width: 100%;text-align: center;}
@@ -113,6 +116,6 @@
     .sec2-bline{display: none;}
     .row1-box1{width: 80%;margin: auto;}
     .card{width: 100%;}
-    .sec4-bg{width: 100%;}
+    .sec4-bg{width: 100%;margin: auto;}
 } 
  
